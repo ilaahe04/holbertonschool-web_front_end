@@ -133,7 +133,6 @@ h6 {
 .nav .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  text-decoration: none;
 }
 .nav .nav-link:hover {
   color: var(--nav-item-link-hover);
