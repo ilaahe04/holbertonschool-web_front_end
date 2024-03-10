@@ -186,7 +186,7 @@ ul.row {
 .card-services .card-title {
   margin: 0;
 }
-.card-services a {
+.card-services a:hover {
   display: block;
   padding: 2rem;
   background-color: var(--color-light-grey);
